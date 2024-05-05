@@ -1,0 +1,20 @@
+/* Use width, min-width and max-width on article to solve the problem:
+	Width (360px) – color: red.
+	Min-width (35rem) - background: yellow.
+	Max-width (50rem) – border: 2px solid blue.
+ */
+ @media (width: 360px){
+    article{
+        color: red;
+    }
+ }
+ @media(min-width: 35rem){
+    article{
+        background-color: yellow;
+    }
+ }
+ @media (max-width: 50rem){
+    article{
+        border: 2px solid blue;
+    }
+ }

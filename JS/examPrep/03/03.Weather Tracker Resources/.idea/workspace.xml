@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c040341-1dca-491d-aa1e-8d1e71c0c201" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/01_Restaurant-Menu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/01_Restaurant-Menu/res-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/01_Restaurant-Menu/site-text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/01_Restaurant-Menu/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/02_Style-Lists/style-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/02_Style-Lists/style-lists.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/02_Style-Lists/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/css-selectors-specificity/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/css-selectors-specificity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/css-selectors-specificity/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/font-awesome/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/font-awesome/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/font-family/fonts/ShadowsIntoLight-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/font-family/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/font-family/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/task-4-Buttons-css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03-css-typography/task-4-Buttons-css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03_Styling-Tables/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03_Styling-Tables/styles.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/03_Styling-Tables/styling-tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/04_Buttons-css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/04_Buttons-css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/04_Buttons-css/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/04_Buttons-css/video.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/05_Fonts-speciment-Great-Vibes+Raleway/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/05_Fonts-speciment-Great-Vibes+Raleway/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/06_Contrasting-Colors/contrasting-colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/06_Contrasting-Colors/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/07_The-Making-Of-A-CSS-Font/making-css-font.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/07_The-Making-Of-A-CSS-Font/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/08_Font-Awesome-Icons/font-awesome-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/08_Font-Awesome-Icons/site-text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/09_Icon-Font-Buttons/icon-font-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/09_Icon-Font-Buttons/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/10_Icon-Font-List/icon-font-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/10_Icon-Font-List/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/11_Create-Typography-CSS/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CSS and Typography_03/11_Create-Typography-CSS/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/01_NavigationBar/nav-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/01_NavigationBar/nav-bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/01_NavigationBar/nav-bar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/01_NavigationBar/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/02_PageContent/page-content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/02_PageContent/page-content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/02_PageContent/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/03_Semantic-Tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/03_Semantic-Tags/screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/03_Semantic-Tags/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/03_Semantic-Tags/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/03_Semantic-Tags/styles.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/04_Semantic-Article-Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/04_Semantic-Article-Page/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/04_Semantic-Article-Page/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/04_Semantic-Article-Page/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/04_Semantic-Article-Page/styles.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/05_SimpleWebsite/simple-website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/05_SimpleWebsite/simple-website.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/05_SimpleWebsite/simple-website.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/05_SimpleWebsite/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/06_Semantic-Blog-Layout/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/06_Semantic-Blog-Layout/index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/06_Semantic-Blog-Layout/screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/06_Semantic-Blog-Layout/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../HTML Structure_02/06_Semantic-Blog-Layout/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/01_Welcome/welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/02_Fruits/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/02_Fruits/banana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/02_Fruits/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/02_Fruits/kiwi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/02_Fruits/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/02_Fruits/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/03_WikiPage/bear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/03_WikiPage/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/03_WikiPage/wiki-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/03_WikiPage/wiki-page.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/04_ToDoList/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/04_ToDoList/to-do-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/04_ToDoList/to-do-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/04_ToDoList/to-do-list.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/05_HTMLLists/html-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/05_HTMLLists/html-lists.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/05_HTMLLists/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/06_DefinitionLists/definition-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/06_DefinitionLists/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/07_ReversedList/reversed-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/07_ReversedList/reversed-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/07_ReversedList/reversed-list.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/07_ReversedList/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/08_ModernJavaScript/modern-javascript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/08_ModernJavaScript/modern-javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/08_ModernJavaScript/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/09_BookStory/book-story.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/09_BookStory/book-story.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/09_BookStory/book-story.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/09_BookStory/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/10_WorldCupNews/arena-pantanal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/10_WorldCupNews/estadio-mineirao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/10_WorldCupNews/estadio-nacional.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/10_WorldCupNews/site-texts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/10_WorldCupNews/world-cup-news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IntroductionToHTMLAndCSS_01/10_WorldCupNews/world-cup-news.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZZMJoasueJrXvgyrpGtowxuuPN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/YOGA/OneDrive/Desktop/03.Weather Tracker – Resources (1)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c040341-1dca-491d-aa1e-8d1e71c0c201" name="Changes" comment="" />
+      <created>1702625078544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702625078544</updated>
+      <workItem from="1702625079620" duration="933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+/* 
+•	Change the section display property to flex and set justify-content: space-between
+•	Set on the section max-width 70vw */
+html{
+    font-family:  Helvetica, sans-serif;
+    line-height: 1.5;
+}
+h2{
+    font-family: Georgia, serif;
+    line-height: 1.2;
+}
+article{
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+}

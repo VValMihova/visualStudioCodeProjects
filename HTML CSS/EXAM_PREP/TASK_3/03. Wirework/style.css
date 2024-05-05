@@ -1,0 +1,28 @@
+:root {
+    --clr-primary: #e24e2a;
+    --clr-grey: #ececec;
+    --clr-grey-dark: #3f3f3f;
+    --clr-grey-text: #575652;
+    --clr-grey-bg: #383838;
+    --clr-green: #1b9772;
+    --clr-green-text: #3aa483;
+    --clr-green-link: #8ec2aa;
+    --clr-white: #fff;
+  
+    --header-height: 66px;
+  }
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 12px/1.5 Helvetica, sans-serif;
+}
+
+body {
+    padding: 2em;
+}
+

@@ -1,0 +1,36 @@
+.site-nav .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 35px 45px 35px 45px;
+}
+
+.site-nav .container ul {
+  list-style: none;
+}
+
+.site-nav .container li {
+  display: inline-block;
+  text-transform: uppercase;
+  font-family: "PT Sans";
+  cursor: pointer;
+  color: white;
+}
+
+.site-nav .container li:nth-of-type(1) {
+  margin-right: 20px;
+}
+
+.site-nav .container li:nth-of-type(2) {
+  margin-right: 20px;
+}
+
+.site-nav .container li:nth-of-type(3) {
+  margin-right: 20px;
+}
+
+.site-nav .container img {
+  display: block;
+  width: 5%;
+  height: 5%;
+}

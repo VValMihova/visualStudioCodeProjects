@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap');
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+header nav {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 36px 0;
+    font-size: 20px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 50px;
+}
+
+.nav-log-in {
+    margin-right: 24px;
+    background-color: transparent;
+}
+
+.nav-sign-up {
+    background-color: #ADE2DF;
+    padding: 12px 16px;
+    border-radius: 6px;
+}
+
+/*  */
+
+.finbest-download {
+    background-color: #ADE2DF;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    padding: 80px 0px 70px 0px;
+}
+
+.finbest-title {
+    font-size: 5.3em;
+    font-weight: 600;
+}
+
+.finbest-text {
+    font-size: 24px;
+}
+
+.download-btn {
+    background-color: #000000;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 6px;
+    padding: 24px 24px;
+}
+
+.download-btn > i {
+    margin-right: 8px;
+}
+
+.finbest-btns {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+/*  */
+
+.statistics {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.statistic {
+    width: 33%;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+
+.statistic-number {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 36px;
+}
+
+.statistic-text {
+    font-size: 22px;
+    padding-bottom: 100px;
+}
